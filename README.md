@@ -1,2 +1,2 @@
-# test
-test repository
+# pipeline-CPU
+pipeline-CPU basic implementation based on vivado
